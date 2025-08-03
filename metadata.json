@@ -1,0 +1,6 @@
+{
+  "name": "Nexus",
+  "description": "An application that uses generative AI to conceptualize a custom Linux-based operating system and simulates its build process.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
